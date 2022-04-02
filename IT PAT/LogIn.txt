@@ -1,0 +1,13 @@
+Logging in to the program
+
+The login screen provides you with text fields that allow
+you to enter your username and password and you can
+click 'Login' to login to the program. Should either your 
+username or password be incorrect, the system will 
+notify you of the error. Should you have forgotten your 
+password then you have to option of clicking the
+'Forgot Password' label or creating a new account by 
+clicking the 'Create New Account' button. Should your 
+login details be correct then you will be shown a welcome
+message, the screen will close and the main menu screen 
+will be opened.

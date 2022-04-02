@@ -1,0 +1,16 @@
+Using The Help Screen
+
+The help screen is available to you throughout the program 
+and can be accessed at any time. The opening of this screen 
+will not close the screen you opened it over and you may 
+close the help screen by clicking the 'Return' button provided. 
+The screen has different buttons that you can use to obtain 
+explanations regarding different funtions of the program as 
+well as why different fuctions exist. Upon clicking any of 
+the buttons on the screen (excluding the return button), 
+a corresponding explanation will appear in the text area in 
+the center of the screen just as this text appears now. 
+You MAY NOT edit any text that is presented to you and 
+should you do so and wish to restore it, click the button again. 
+If text is edited on this screen, the content of the text files 
+storing the explanations will not be affected. 

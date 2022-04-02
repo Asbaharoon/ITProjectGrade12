@@ -1,0 +1,21 @@
+Student Log:
+This screen will appear after clicking the 'Student Log'
+button in the main menu. You may enter the details of 
+any student and register them into the system. Their data
+will appear in the table on the screen. You may filter and sort
+the data to your liking by using the options at the top of the screen. 
+You may also search for a student using their name or surname. You 
+may also delete or update the data at any time that you may desire.
+If some features are disabled then it is because of your position in
+the school as a user. Prefects and Head Prefects do not have full
+access to all the features of the screen whereas all other users do.
+
+Consultations:
+This screen will after clicking the 'Consultations' button in
+the main menu. You may enter the details of an offence that
+a student has committed. The student must already be in the
+database for you to register the offence. You may update or delete 
+this data any time you want to. If there are features that are 
+not available then your position has played a part in the restriction. 
+Only teachers and HODs have full access to the screen's features. 
+Prefects do not have any access to the screen at all.

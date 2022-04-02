@@ -1,0 +1,10 @@
+Creating a New Account
+
+The new account screen will appear when you click the
+'Create New Account' button on the login page. This screen
+will allow you to enter all your details so as to create your new account. 
+You can press 'Create' after you enter your details and if all
+the data is valid, you will be asked to enter a security
+question as well as the answer to said question. 
+Upon the creation of the account, the screen will close and 
+the login page will be displayed

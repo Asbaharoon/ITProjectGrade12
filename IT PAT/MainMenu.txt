@@ -1,0 +1,7 @@
+The Main Menu Screen
+
+The screen presents you with 5 buttons that lead to
+different screens in the program. Upon clicking one
+of these buttons, the screen will close and the 
+corresponding screen will open. You may also
+log out of the program in this screen.

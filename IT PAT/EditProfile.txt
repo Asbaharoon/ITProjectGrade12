@@ -1,0 +1,14 @@
+Editing Your Profile
+
+In the main menu screen, there is an 'Edit Profile' button.
+Upon clicking this button, the screen that will allow
+you to edit your profile will appear and the main menu
+will close. You may edit any of your data on this screen and
+click 'Update' when you are satisfied. The system will
+notify you of any errors in the data you would have entered
+and you will be required to fix them before proceeding. 
+Upon clicking 'Update', you will be able to edit your security question
+should you feel the need to. If you inform the system that you want 
+to edit the question, you will also be required to enter a new answer
+as well. Upon completing this process,  the screen will close and
+you will be directed to the main menu. 
